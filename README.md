@@ -1,6 +1,7 @@
 # Datos personales
 - **Nombre:** Leonidas Esteban González
 - **Cargo:** Profesor en LeonidasEsteban.com
+- **Correo** leonidasesteban@gmail.com
 # Redes sociales
 - **Twitter:** [https://twitter.com/LeonidasEsteban](https://twitter.com/leonidasesteban)
 - **Instagram:** [https://instagram.com/LeonidasEsteban](https://instagram.com/leonidasesteban)
