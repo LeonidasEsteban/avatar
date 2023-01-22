@@ -54,7 +54,7 @@ Aparte de los [proyectos](https://leonidasesteban.com/proyectos) desarrollados e
 ### Foto para recortar con fondo plano
 Puedes incluir el background más adecuado recortando estas fotografias en herramienta como [remove.bg](https://www.remove.bg/es)
 ![Leonidas 2023](https://github.com/LeonidasEsteban/avatar/blob/main/photos/flat-black/main.jpg?raw=true)
-![Leonidas 2023 no bg](https://github.com/LeonidasEsteban/avatar/blob/main/photos/flat-black/main-no-bg.jpg?raw=true)
+![Leonidas 2023 no bg](https://github.com/LeonidasEsteban/avatar/blob/main/photos/flat-black/main-no-bg.png?raw=true)
 
 ![Leonidas 2023 css](https://github.com/LeonidasEsteban/avatar/blob/main/photos/flat-css/main.jpg?raw=true)
-![Leonidas 2023 css no bg](https://github.com/LeonidasEsteban/avatar/blob/main/photos/flat-css/main-no-bg.jpg?raw=true)
+![Leonidas 2023 css no bg](https://github.com/LeonidasEsteban/avatar/blob/main/photos/flat-css/main-no-bg.png?raw=true)
